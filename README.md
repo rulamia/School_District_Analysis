@@ -16,7 +16,7 @@
 > The school summary was not affected. The grade percentages for math, reading, and overall had less than 1% change.
 3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 > The grade percentages for math, reading, and overall had less than 1% change. There is no change in performance relative to other schools
-3. How does replacing the ninth-grade scores affect the following:
+4. How does replacing the ninth-grade scores affect the following:
     - Math and reading scores by grade
         > No significant change
     - Scores by school spending
